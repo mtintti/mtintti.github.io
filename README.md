@@ -1,25 +1,26 @@
+# mtintti.github.io
 
 # Hello
 
 # Welcome to My Github.io Website
 
 ### About Me - Tiina
-Here are some animal facts to fullfill extra assigments criteria.
+Here are some animal facts to fulfill extra assignment criteria.
 
 
 # Facts About Animals.
 
 ## Animal 1: Dog
 
-- **Fact:** Worlds fastest dogs are Greyhounds, they can reach up to 72 h/km.
-- **Fact:** Dog's sense of smell is 1000 times better than a persons.
-- **Fact:** Dalmatians are born complitly white, their develope their first spots after they are 1 week old.
+- **Fact:** World's fastest dogs are Greyhounds, they can reach up to 72 h/km.
+- **Fact:** Dog's sense of smell is 1000 times better than a person's.
+- **Fact:** Dalmatians are born completely white, they develop their first spots after a week has passed from their birth.
 
 ## Animal 2: Whales
-Here's some fun facts about :whale:
+Here are some fun facts about whales.
 1. Blue whales are the largest animals on Earth.
 2. These gentle giants consume about 4 tons of krill a day.
-3. Blue whale heartbeats can be detected from two miles away.
+3. Blue whale heartbeats can be detected from three kilometers away.
 
 ## Animal 3: The Bee
 Here's some fun facts about bees.
@@ -34,7 +35,7 @@ Here's some fun facts about bees.
 ## Featured Post
 > **The Art of Code** - Coding is not just about writing lines of code, it's about creating something out of nothing, solving problems, and continuous learning.
 
-# Some links to important Websites to checkout!
+# Some links to important Websites to check!
 
 
 - [LinkedIn](https://www.linkedin.com)
@@ -42,4 +43,3 @@ Here's some fun facts about bees.
 - [Google](https://google.com)
 
 This site was crafted using [GitHub Pages](https://pages.github.com/).
-
