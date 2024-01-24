@@ -3,46 +3,43 @@
 
 # Welcome to My Github.io Website
 
-## Introduction
-Welcome to my personal space on the web! This is where I share my thoughts, projects, and the occasional musings. Let's dive in and see how everything comes together.
-
 ### About Me - Tiina
-I'm a developer, a thinker, and a lifelong learner. Here's a little about my journey so far in the realm of code and beyond.
+Here are some animal facts to fullfill extra assigments criteria.
 
-```markdown
-# My Projects
 
-## Project 1: The Beginnings
-Every journey has a starting point, and here's mine. This section showcases my very first project and the lessons learned along the way.
+# Facts About Animals.
 
-- **Challenge faced:** I ran into several roadblocks while learning to code.
-- **Solution:** With perseverance and a lot of coffee, I overcame them.
+## Animal 1: Dog
 
-## Project 2: Stepping Up
-Building on the foundations, this project was a step up in complexity and learning.
+- **Fact:** Worlds fastest dogs are Greyhounds, they can reach up to 72 h/km.
+- **Fact:** Dog's sense of smell is 1000 times better than a persons.
+- **Fact:** Dalmatians are born complitly white, their develope their first spots after they are 1 week old.
 
-1. Learned to integrate APIs
-2. Focused on responsive design
-3. Implemented user authentication
-ss
-## Upcoming Adventures
-Stay tuned for more updates as I embark on new projects and explore new technologies.
+## Animal 2: Whales
+Here's some fun facts about :whale:
+1. Blue whales are the largest animals on Earth.
+2. These gentle giants consume about 4 tons of krill a day.
+3. Blue whale heartbeats can be detected from two miles away.
 
-```markdown
-# Blog Posts
+## Animal 3: The Bee
+Here's some fun facts about bees.
 
-- `08/01/2024` **My First Blog Post** - The story of how I started my journey in tech.
-- `08/15/2024` **Tips for New Coders** - How to navigate the overwhelming world of programming.
+- **Fact:** Bees are important pollinators for flowers, fruits, and vegetables.
+- **Fact:** Bees have 5 eyes.
+- **Fact:** An average sized beehive can hold around 50,000 bees.
+
+
+
 
 ## Featured Post
 > **The Art of Code** - Coding is not just about writing lines of code, it's about creating something out of nothing, solving problems, and continuous learning.
 
-# Connect with Me
-Feel free to reach out, collaborate, or just say hi!
+# Some links to important Websites to checkout!
+
 
 - [LinkedIn](https://www.linkedin.com)
 - [GitHub](https://github.com)
-- [Twitter](https://twitter.com)
+- [Google](https://google.com)
 
-This site was lovingly crafted using [GitHub Pages](https://pages.github.com/).
+This site was crafted using [GitHub Pages](https://pages.github.com/).
 
